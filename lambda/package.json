@@ -1,0 +1,19 @@
+{
+  "name": "cola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.2",
+    "botkit": "^4.5.0",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "exec": "^0.2.1",
+    "util": "^0.12.1"
+  },
+  "description": ""
+}
